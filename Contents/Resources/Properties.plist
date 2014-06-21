@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brightBlue</key>
+	<string>#3f89e0</string>
+	<key>defaultFontName</key>
+	<string>Helvetica Neue</string>
+	<key>defaultEmphasizedFontName</key>
+	<string>Helvetica Neue Bold</string>
+	<key>defaultSelectedTextShadowColor@2x</key>
+	<string>clearColor</string>
+	<key>defaultDimmedTextColor</key>
+	<string>#aaaaaa</string>
+	<key>defaultTextColor</key>
+	<string>whiteColor</string>
+	<key>defaultTextShadowColor</key>
+	<string>#00000033</string>
+	<key>inputAreaAbbreviationBaselineOffset</key>
+	<integer>2</integer>
+	<key>inputAreaAbbreviationFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaAbbreviationFontSize</key>
+	<integer>13</integer>
+	<key>inputAreaAbbreviationTextColo</key>
+	<string>#f9f9f9</string>
+	<key>inputAreaAbbreviationFontSize@1x</key>
+	<integer>14</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationThickness</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationRadius</key>
+	<integer>0</integer>
+	<key>inputAreaActionMenuAreaEdgeInsets</key>
+	<string>-3 0 -3 0</string>
+	<key>inputAreaActionMenuAreaTextShadowColor</key>
+	<string>clearColor</string>
+	<key>inputAreaAutohideOffImagePaddingRight</key>
+	<integer>16</integer>
+	<key>inputAreaBackgroundGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>#FFFFFF05</string>
+		<key>1.0</key>
+		<string>#FFFFFF05</string>
+	</dict>
+	<key>inputAreaDefocusedItemFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaDefocusedItemFontSize</key>
+	<integer>16</integer>
+	<key>inputAreaDimmedTextColor</key>
+	<string>@defaultDimmedTextColor</string>
+	<key>inputAreaFocusedItemFontName</key>
+	<string>@defaultFontName</string>
+	<key>inputAreaFocusedItemFontSize</key>
+	<integer>26</integer>
+	<key>inputAreaHeight</key>
+	<integer>55</integer>
+	<key>inputAreaKeyCapIconWidthPlusPadding</key>
+	<integer>39</integer>
+	<key>inputAreaMenuButtonPaddingRight</key>
+	<integer>16</integer>
+	<key>inputAreaNonKeyWindowTextShadowColor</key>
+	<string>clearColor</string>
+	<key>inputAreaTextShadowColor</key>
+	<string>clearColor</string>
+	<key>itemListEdgeInsets</key>
+	<string>8 0 8 0</string>
+	<key>itemListExtraDetailsFontName</key>
+	<string>@defaultFontName</string>
+	<key>itemListGridLineGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>0 0 0 0</string>
+		<key>0.1</key>
+		<string>0 0 0 0.07</string>
+		<key>0.9</key>
+		<string>0 0 0 0.07</string>
+		<key>1.0</key>
+		<string>0 0 0 0</string>
+	</dict>
+	<key>itemListIconPaddingLeft</key>
+	<integer>13</integer>
+	<key>itemListLabeledExtraDetailsFontName</key>
+	<string>@defaultFontName</string>
+	<key>itemListNavigationArrowPaddingRight</key>
+	<integer>12</integer>
+	<key>itemListNavigationArrowAreaWidth</key>
+	<integer>35</integer>
+	<key>itemListSelectedSubtitleFontName@1x</key>
+	<string>@itemListSubtitleFontName</string>
+	<key>itemListSelectedTitleFontName@1x</key>
+	<string>@itemListTitleFontName</string>
+	<key>itemListSelectionCornerRadius</key>
+	<integer>2</integer>
+	<key>itemListSelectionHighlightColor</key>
+	<string>@brightBlue</string>
+	<key>itemListSelectionSubsearchHighlightColor</key>
+	<string>@brightBlue</string>
+	<key>itemListSeparatorLowerLineThickness</key>
+	<integer>1</integer>
+	<key>itemListSeparatorLowerLineColor</key>
+	<string>#909090</string>
+	<key>itemListSeparatorUpperLineColor</key>
+	<string>#505050</string>
+	<key>itemListSelectedTitleShadowColor</key>
+	<string>clearColor</string>
+	<key>itemListSubtitleFontName</key>
+	<string>@defaultFontName</string>
+	<key>itemListSubtitleBaselineOffset</key>
+	<integer>3</integer>
+	<key>itemListTitleEmphasizedFontName</key>
+	<string>@defaultEmphasizedFontName</string>
+	<key>itemListTitleFontName</key>
+	<string>@defaultFontName</string>
+	<key>templateIconTintColor</key>
+	<string>#4a5259</string>
+	<key>templateIconSelectedShadow@1x</key>
+	<string>@defaultSelectedTextShadow</string>
+	<key>templateIconSelectedTintColor</key>
+	<string>@defaultSelectedTextColor</string>
+	<key>textInputBackgroundColor</key>
+	<string>clearColor</string>
+	<key>textInputEdgeInsets</key>
+	<string>8 5 3 8</string>
+	<key>textInputFieldEditorEdgeInsets</key>
+	<string>3.5 0 2.5 14</string>
+	<key>textInputFieldEditorEdgeInsets@1x</key>
+	<string>3.5 0 3.5 14</string>
+	<key>textInputFieldTextContainerInset</key>
+	<string>0 0</string>
+	<key>textInputFocusRingColor</key>
+	<string>clearColor</string>
+	<key>textInputFontName</key>
+	<string>@defaultFontName</string>
+	<key>textInputFontSize</key>
+	<string>@inputAreaFocusedItemFontSize</string>
+	<key>textInputInactiveFocusRingColor</key>
+	<string>clearColor</string>
+	<key>textInputSelectedTextBackgroundColor</key>
+	<string>#b2d7fc</string>
+	<key>textInputTitleFontName</key>
+	<string>@defaultFontName</string>
+	<key>textInputTitleFontSize</key>
+	<integer>16</integer>
+	<key>textInputTitleTextColor</key>
+	<string>@defaultDimmedTextColor</string>
+	<key>windowBackgroundColor</key>
+	<string>#505050c8</string>
+	<key>windowBackgroundColorIsDark</key>
+	<true/>
+	<key>windowBackgroundBlurRadius</key>
+	<integer>16</integer>
+	<key>windowDefaultWidth</key>
+	<integer>600</integer>
+	<key>windowCornerRadius</key>
+	<integer>5</integer>
+	<key>windowShadowStyle</key>
+	<integer>2</integer>
+</dict>
+</plist>
