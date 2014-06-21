@@ -13,7 +13,7 @@ Yosemite-Dark.lbtheme
 ## Installation
 
 To add the theme to Launch Bar 6, simply download the [zip][zip] for this repo.
-Unzip the file, and double-click to add to Launch Bar
+Unzip the file. You'll need to remove `-master` from the folder name for OS X to correctly recognize the package. Then simply double click and Launch Bar will install the theme! 
 
 ### Notes:
 * Font is Helvetica Neue instead of Helvetica Neue Light because I find it a bit easier to read.
