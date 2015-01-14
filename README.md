@@ -12,7 +12,7 @@ Yosemite-Dark.lbtheme
 
 ## Installation
 
-To add the theme to Launch Bar 6, simply download the [zip][zip] for this repo.
+To add the theme to Launch Bar 6, simply download the [zip](https://github.com/cycomachead/Yosemite-Dark.lbtheme/archive/master.zip) for this repo.
 Unzip the file. You'll need to remove `-master` from the folder name for OS X to correctly recognize the package. Then simply double click and Launch Bar will install the theme! 
 
 ### Notes:
